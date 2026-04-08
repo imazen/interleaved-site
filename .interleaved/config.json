@@ -1,0 +1,7 @@
+{
+  "generator": "handlebars",
+  "preview": {
+    "mode": "builtin"
+  },
+  "mediaOutput": "/images"
+}

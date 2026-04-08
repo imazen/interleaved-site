@@ -1,0 +1,8 @@
+{
+  "name": "Interleaved",
+  "tagline": "Content and code, human and AI, interleaved.",
+  "description": "Edit content from your phone while Claude handles templates and styling. No schema to configure — point it at markdown files and start editing.",
+  "appUrl": "https://interleaved.app",
+  "githubUrl": "https://github.com/imazen/interleaved",
+  "githubAppUrl": "https://github.com/apps/interleaved-cms"
+}
